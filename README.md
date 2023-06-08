@@ -14,4 +14,4 @@
 I'm currently working at [Atsign](https://atsign.com/) as a software intern. 
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=azure,react,vite,dart,flutter,dotnet,docker,git,gitlab,graphql,java,ts,nodejs,py,html,css,tailwind&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,react,vite,dart,flutter,dotnet,docker,git,gitlab,graphql,java,ts,nodejs,py,html,css,tailwind&perline=5&theme=dark)](https://skillicons.dev)
