@@ -6,7 +6,7 @@
 
 - 💼 [https://xlin123.github.io/](https://xlin123.github.io/)
 
-- 💼 Linkedin: [https://www.linkedin.com/in/xavier-lin/]((https://www.linkedin.com/in/xavier-lin/))
+- 💼 Linkedin: [Profile](https://www.linkedin.com/in/xavier-lin/)
 
 <h3>What I'm currently doing:</h3>
 
