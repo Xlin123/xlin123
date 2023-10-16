@@ -10,7 +10,7 @@
 
 <h3>What I'm currently doing:</h3>
 
-I'm currently working at [Atsign](https://atsign.com/) as a software intern. 
+ I'm currently working at [Atsign](https://atsign.com/) as a software developer. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
