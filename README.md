@@ -10,7 +10,9 @@
 
 <h3>What I'm currently doing:</h3>
 
- I'm currently working at [Atsign](https://atsign.com/) as a software developer. 
+ I'm currently working at [Atsign](https://atsign.com/) as a software developer. Please [check this](https://github.com/atsign-foundation/sshnoports/tree/trunk/packages/sshnpdpy) to see the cool stuff I've been working on!
+
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
