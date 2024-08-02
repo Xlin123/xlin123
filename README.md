@@ -12,7 +12,7 @@
 
  I'm currently working at [Atsign](https://atsign.com/) as a software developer. Please [check this](https://github.com/atsign-foundation/sshnoports/tree/trunk/packages/sshnpdpy) to see the cool stuff I've been working on!
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlin123)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlin123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
