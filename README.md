@@ -1,10 +1,8 @@
 <h1 align="center">Hey, I'm Xavier!</h1>
-<h3 align="center">2nd Year @ TMU (Ryerson) | Fullstack Web Dev</h3>
+<h3 align="center">3rd Year @ TMU (Ryerson) | Fullstack Web Dev</h3>
 
 
 <h3>Extra stuff: </h3>
-
-- 💼 [https://xlin123.github.io/](https://xlin123.github.io/)
 
 - 💼 Linkedin: [Profile](https://www.linkedin.com/in/xavier-lin/)
 
