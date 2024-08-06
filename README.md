@@ -5,6 +5,7 @@
 <h3>Extra stuff: </h3>
 
 - 💼 Linkedin: [Profile](https://www.linkedin.com/in/xavier-lin/)
+- 🏎️ [Small Frontend Project](https://xlin123-nsx.netlify.app/)
 
 <h3>What I'm currently doing:</h3>
 
