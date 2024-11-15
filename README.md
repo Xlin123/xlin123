@@ -6,8 +6,6 @@
 
 <h3>What I'm currently doing:</h3>
 
- I'm currently working at [Atsign](https://atsign.com/) as a software developer. Please [check NoPorts](https://github.com/atsign-foundation/noports) to see the cool stuff I've been working on!
-
  Side Project Status: Almost a demo, [DevLogs](https://github.com/Xlin123/Xlin123.github.io/tree/react-switch/devlogs). If you like to look at the code the branch is `react-switch`
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xlin123&size_weight=0.5&count_weight=0.5&theme=github_dark&layout=compact&hide_border=true)
