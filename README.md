@@ -4,9 +4,9 @@
 
 
 
-<h3>What I'm currently doing:</h3>
+<h3>What I'm currently doing: working @ Nissan for Vehicle Connected Services</h3>
 
- Side Project Status: Almost a demo, [DevLogs](https://github.com/Xlin123/Xlin123.github.io/tree/react-switch/devlogs). If you like to look at the code the branch is `react-switch`
+  [WIP, 1-week portfolio challenge! ](https://xlin123.github.io/)
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xlin123&size_weight=0.5&count_weight=0.5&theme=github_dark&layout=compact&hide_border=true)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xlin123&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
